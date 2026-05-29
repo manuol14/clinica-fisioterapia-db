@@ -61,7 +61,7 @@ O banco contempla as seguintes entidades:
 * Estruturação de dados para análise
 
 ## 👨‍💻 Autor
-* Emanuelle Pimentel
+* Maria Emanuelle Pimentel
 * Catarina Garcia
 * Rebeca Laila Duarte
 
