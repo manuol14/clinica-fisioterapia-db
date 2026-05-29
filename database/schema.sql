@@ -1,4 +1,5 @@
 -- MySQL Workbench Forward Engineering
+-- Projeto de modelagem de banco de dados para clínica de fisioterapia
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
